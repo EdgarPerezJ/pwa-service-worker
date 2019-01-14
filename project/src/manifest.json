@@ -1,0 +1,21 @@
+{
+    "short_name": "PWA News",
+    "name": "PWA News",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#2196F3",
+    "theme_color": "#2196F3",
+    "scope": "/",
+    "icons": [
+        {
+        "src": "/images/icon/icon_192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+        },
+        {
+        "src": "/images/icon/icon_512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+        }
+    ]
+}
